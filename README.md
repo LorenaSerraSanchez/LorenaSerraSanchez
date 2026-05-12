@@ -2,8 +2,7 @@
 
 **Data Analyst | SQL · Python · Power BI · Tableau**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[TU_USUARIO]-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-[TU_EMAIL]-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[TU_USUARIO]-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINK_LINKEDIN](https://www.linkedin.com/in/lorena-a-serra/))
 
 ---
 
