@@ -1,6 +1,6 @@
 👋 Soy Lorena Serra
 
-**Data Analyst | SQL · Python · Power BI · Tableau**
+**Data Analyst** | SQL · Python · Power BI · Tableau
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lorena--a--serra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-a-serra)
 ---
