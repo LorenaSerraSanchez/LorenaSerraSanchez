@@ -17,7 +17,7 @@ Analista de datos con enfoque en **[Tu Background previo, ej. Marketing/Ciencias
 
 | Área | Herramientas |
 | :--- | :--- |
-| **Bases de datos** | SQL (MySQL, PostgreSQL) |
+| **Bases de datos** | SQL (MySQL) |
 | **Análisis y EDA** | Python (Pandas, NumPy, Seaborn, Matplotlib) |
 | **Visualización** | Power BI · Tableau |
 | **Otros** | Excel · Git · GitHub |
@@ -29,5 +29,4 @@ Analista de datos con enfoque en **[Tu Background previo, ej. Marketing/Ciencias
 | Proyecto | Tecnologías | Descripción |
 | :--- | :--- | :--- |
 | [Madrid Al Descubierto](link-a-tu-repo) | Python · SQL · Open Data | Análisis interseccional de calidad de vida y propuestas urbanas. |
-| [Proyecto 2](link-a-tu-repo) | Python · Pandas | Análisis descriptivo de [Tema del proyecto]. |
-| [Dashboard BI](link-a-tu-repo) | Power BI | Visualización interactiva de métricas de [Negocio/Sector]. |
+
