@@ -7,7 +7,9 @@
 
 ## 🔍 Sobre mí
 
-Analista de datos con enfoque en **[Tu Background previo, ej. Marketing/Ciencias]**. Me especializo en transformar datos complejos en **historias claras** y soluciones accionables para la ciudad y el negocio.
+Profesional en Administración de Empresas con trayectoria en gestión operativa y financiera. Mi experiencia se ha desarrollado principalmente en los sectores bancario e inmobiliario, donde aprendí la importancia de la precisión de los datos para el éxito del negocio.  
+
+Recientemente, decidí potenciar mi perfil técnico integrando el Análisis de Datos. Mi enfoque actual combina experiencia administrativa con herramientas como Python, SQL y Power BI.
 
 * 🎓 Bootcamp Data Analytics — [Tu Escuela] (2026)
 * 📊 Especialista en visualización y narrativa de datos
