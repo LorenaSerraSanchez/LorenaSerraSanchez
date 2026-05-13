@@ -32,5 +32,5 @@ Mi enfoque combina la formación en Administración de Empresas con la capacidad
 
 | Proyecto | Tecnologías | Descripción |
 | :--- | :--- | :--- |
-| [Madrid Al Descubierto]([link-a-tu-repo](https://github.com/LorenaSerraSanchez/Proyecto_Madrid_al_descubierto.git)) | Python · Power BI · Datos abiertos del Ayuntamiento de Madrid | Análisis de calidad de vida y propuestas urbanas. |
+| [Madrid Al Descubierto](https://github.com/LorenaSerraSanchez/Proyecto_Madrid_al_descubierto.git) | Python · Power BI · Datos abiertos del Ayuntamiento de Madrid | Análisis de calidad de vida y propuestas urbanas. |
 
