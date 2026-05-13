@@ -32,5 +32,5 @@ Recientemente, decidí potenciar mi perfil técnico integrando el Análisis de D
 
 | Proyecto | Tecnologías | Descripción |
 | :--- | :--- | :--- |
-| [Madrid Al Descubierto](link-a-tu-repo) | Python · SQL · Ayuntamiento de Madrid Open Data | Análisis interseccional de calidad de vida y propuestas urbanas. |
+| [Madrid Al Descubierto](link-a-tu-repo) | Python · Power BI · Datos abiertos del Ayuntamiento de Madrid | Análisis de calidad de vida y propuestas urbanas. |
 
